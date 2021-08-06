@@ -4,8 +4,9 @@ body {
   padding: 1rem;
   max-width: 500px;
   margin: 2rem auto;
-  font-family: "Open Sans", sans-serif;
+	font-family: 'Fira Sans', sans-serif;
 }
+
 
 nav {
 	border-bottom: 2px solid orange;
@@ -38,7 +39,15 @@ img {
 }
 
 .yellow-btn {
+	color: #004415;
 	font-size: 15px;
-	background-color: yellow;
-	padding: 1%;
+	background-color: #F9E701;
+	padding: 2%;
+	border: solid 2px #e2d739;
+	cursor: pointer;
+}
+
+.discover-div{
+	display: grid;
+	grid-template-columns: max-content minmax(15em, 1fr);
 }
