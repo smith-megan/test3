@@ -1,0 +1,14 @@
+How does the internet work? What happens when you click on a link? 
+
+
+The internet is a series of connected networks that allow devices to communicate. Each network makes use of a router to relay and make connecting many more devices possible. 
+Internet service providers are master networkers to help connect all the router networks together. 
+
+An intranet is a small network available only to an organization and an extranet is available to the organization and select others outside of it. The internet is made up of available connections beyond both intranet and extranet.
+
+These networks make use of data packets that allows for data to be broken down into smaller managable pieces and sent across the connections. 
+This very efficiently allows for data loss or corruption and having many users. 
+
+When you click on a link, the browser will take the URL, uniform resource locator, and start looking up what the associated IP address to that domain name. 
+This starts with the local system and checking it's way outwards through internet service providers and domain service routers until the IP address is found.
+Once the IP address is found, a request will be sent from the client asking the server for the data at that designated URL, if the request is then completed the data will be transferred.
